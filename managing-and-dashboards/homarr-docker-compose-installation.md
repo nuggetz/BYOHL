@@ -8,13 +8,13 @@ Below is a complete, step‑by‑step guide to get Homarr up and running with Do
 
 | Requirement |	How to satisfy |
 |---------------------------------|------------------------------------------------------------------------------------------|
-| Docker Engine (≥ 20.10)	| `curl -fsSL https://get.docker.com |
-| Docker‑Compose (v2 plugin) | sudo apt-get install docker-compose-plugin (or pip install docker-compose for other distros) |
-| A directory for persistent data |	e.g. /opt/homarr (any path you like) |
+| Docker Engine (≥ 20.10)	| `curl -fsSL https://get.docker.com` |
+| Docker‑Compose (v2 plugin) | `sudo apt-get install docker-compose-plugin` (or `pip install docker-compos`e for other distros) |
+| A directory for persistent data |	e.g. `/opt/homarr` (any path you like) |
 | (Optional) Domain name	| Needed only if you want HTTPS via a reverse proxy. |
 | (Optional) Reverse‑proxy	| Caddy, Nginx, Traefik, … – we’ll show a minimal Caddy example. |
 
-Tip: Run all commands as a user that belongs to the docker group, or prefix with sudo.
+> Tip: Run all commands as a user that belongs to the `docker` group, or prefix with `sudo`.
 
 ---
 
