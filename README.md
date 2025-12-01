@@ -46,5 +46,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 📜 License
 
+This project is released under the **MIT License** – see the `LICENSE` file for full terms.  
+The license permits reuse, modification, and distribution while requiring attribution to the original author.
 
 
