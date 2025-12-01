@@ -1,6 +1,6 @@
 # 🌐 WireGuard VPN Setup with ProtonVPN using systemd-networkd and wpasupplicant
 
-What this guide does – It shows how to install and run a WireGuard client directly on the endpoint (your Linux machine) instead of relying on a router‑based VPN. By configuring the VPN on the host itself you keep full control of the tunnel, avoid having to expose the VPN to the whole LAN, and can easily switch or disable the connection per‑device. The steps below walk you through generating the ProtonVPN configuration, placing it where systemd‑networkd can use it, and managing the service with systemd‑resolved and systemd‑networkd. ⚠️ **Note**: Using Network Manager or similar tools may interfere with this setup, but it's still worth trying due to its ease of setup and ability to revert if necessary.
+**What this guide does** – It shows how to install and run a **WireGuard client directly on the endpoint** (your Linux machine) instead of relying on a router‑based VPN. By configuring the VPN on the host itself you keep full control of the tunnel, avoid having to expose the VPN to the whole LAN, and can easily switch or disable the connection per‑device. The steps below walk you through generating the ProtonVPN configuration, placing it where systemd‑networkd can use it, and managing the service with **systemd‑resolved** and **systemd‑networkd**. ⚠️ **Note**: Using Network Manager or similar tools may interfere with this setup, but it's still worth trying due to its ease of setup and ability to revert if necessary.
 
 ## 📝 Prerequisites
 
