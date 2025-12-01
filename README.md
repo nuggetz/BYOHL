@@ -15,7 +15,10 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 - [Vodafone station bridge mode guide](networking-and-privacy/vodafone-station‑bridge‑mode‑guide.md).
 - [Endpoint wireguard protonvpn systemd networkd](networking-and-privacy/endpoint-wireguard-protonvpn-systemd-networkd.md).    
-- [Twingate onprem connector docker](networking-and-privacy/twingate-onprem-connector-docker.md).  
+- [Twingate onprem connector docker](networking-and-privacy/twingate-onprem-connector-docker.md).
+- Tools and Scripts:
+-   [Linux Auto-updater](managing-and-dashboards/tool-scripts/linux-autoupdater.md).
+-   [Clean My Linux (Works with Ubuntu/Debian)](managing-and-dashboards/tool-scripts/clean-my-linux.md).
 
 ---
 
