@@ -13,9 +13,9 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 🌐 Networking & Privacy
 
-- VLAN segmentation, Networks anagement.  
-- Encription, DNS, Firwall configurationa.    
-- Guidelines for password rotation and self‑hosted password managers (Protonpass, ecc.).  
+- [Vodafone station bridge mode guide](Networking and Privacy/vodafone-station‑bridge‑mode‑guide.md).  
+- [Endpoint wireguard protonvpn systemd networkd](Networking and Privacy/endpoint-wireguard-protonvpn-systemd-networkd.md).    
+- [Twingate onprem connector docker](Networking and Privacy/twingate-onprem-connector-docker.md).  
 
 ---
 
