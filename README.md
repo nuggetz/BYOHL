@@ -40,7 +40,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 🎮 Media & Games Services
 
-
+- [Setting up your first ZFS Pool in Proxmox](media-and-games-services/proxmox-create-mirrored-zfs-pool-gui.md).
 
 ---
 
