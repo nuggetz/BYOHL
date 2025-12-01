@@ -46,6 +46,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 - [Satisfactory dedicated server (docker)](media-and-games-services/satisfactory-dedicated-server-docker.md).
 - [Installing Pop!_OS in dual boot mode: the base for Gaming-Enhanched linux](media-and-games-services/Installing-pop-os-dual-boot.md).
 - [Pop!_OS: gaming build post install](media-and-games-services/pop-os-gaming-post-install.md).
+- [Lutris advanced configuration](media-and-games-services/lutris-advanced-configuration.md).
 
 ---
 
