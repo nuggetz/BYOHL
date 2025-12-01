@@ -32,7 +32,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 🏡 Home Assistance & Automation
 
-
+- [Install Home Assistant (Docker) Comunity store (HACS)](home-assistance-and-automation/install-hacs-home-assistant-via-portainer-docker.md.)
 
 ---
 
