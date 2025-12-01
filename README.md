@@ -34,6 +34,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 - [Install Home Assistant Comunity store (HACS) - Docker version](home-assistance-and-automation/install-hacs-home-assistant-via-portainer-docker.md).
 - [Mqtt broker setup portainer mosquitto](home-assistance-and-automation/mqtt-broker-setup-portainer-mosquitto.md).
+- [Home assistant docker installation](home-assistance-and-automation/home-assistant-docker-installation.md).
 
 ---
 
