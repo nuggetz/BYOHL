@@ -13,7 +13,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 🌐 Networking & Privacy
 
-- [[Vodafone station bridge mode guide](networking-and-privacy/vodafone-station‑bridge‑mode‑guide.md)].  
+- [Vodafone station bridge mode guide](networking-and-privacy/vodafone-station‑bridge‑mode‑guide.md).  
 - [Endpoint wireguard protonvpn systemd networkd](networking-and-privacy/endpoint-wireguard-protonvpn-systemd-networkd.md).    
 - [Twingate onprem connector docker](networking-and-privacy/twingate-onprem-connector-docker.md).  
 
