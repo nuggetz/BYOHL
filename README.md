@@ -42,8 +42,8 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 - [Setting up your first ZFS Pool in Proxmox](media-and-games-services/proxmox-create-mirrored-zfs-pool-gui.md).
 - [Setting up an smb media share](media-and-games-services/setup-smb-shares.md).
-- [Minecraft dedicated server](media-and-games-services/minecraft-dedicated-server-docker.md).
-- [Satisfactory dedicated server](media-and-games-services/satisfactory-dedicated-server-docker.md).
+- [Minecraft dedicated server (docker)](media-and-games-services/minecraft-dedicated-server-docker.md).
+- [Satisfactory dedicated server (docker)](media-and-games-services/satisfactory-dedicated-server-docker.md).
 
 ---
 
