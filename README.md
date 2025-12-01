@@ -21,6 +21,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 📊 Managing & Dashboards
 
+- [Homarr docker compose installation](managing-and-dashboards/homarr-docker-compose-installation.md).
 
   
 ---
