@@ -12,7 +12,7 @@
 ```bash
 #!/bin/bash
 
-# CleanMyLinux by Dennis & Aether — version 1.0
+# CleanMyLinux by nuggetz — version 1.0
 # Compatible with Debian/Ubuntu
 # Run with sudo
 
