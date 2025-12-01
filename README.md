@@ -45,6 +45,7 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 - [Minecraft dedicated server (docker)](media-and-games-services/minecraft-dedicated-server-docker.md).
 - [Satisfactory dedicated server (docker)](media-and-games-services/satisfactory-dedicated-server-docker.md).
 - [Installing Pop!_OS in dual boot mode: the base for Gaming-Enhanched linux](media-and-games-services/Installing-pop-os-dual-boot.md).
+- [Pop!_OS: gaming build post install](media-and-games-services/pop-os-gaming-post-install.md).
 
 ---
 
