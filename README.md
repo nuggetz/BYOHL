@@ -21,9 +21,9 @@ Welcome! This repository contains **all the configurations, scripts, and documen
 
 ## 📊 Managing & Dashboards
 
-- [Homarr docker compose installation](managing-and-dashboards/homarr-docker-compose-installation.md).
+- [Install proxmox ve step by step](managing-and-dashboards/install-proxmox-ve-step-by-step.md)
 - [Docker and portainer installation guide](managing-and-dashboards/docker-portainer-installation-guide.md).
-
+- [Homarr docker compose installation](managing-and-dashboards/homarr-docker-compose-installation.md).
   
 ---
 
